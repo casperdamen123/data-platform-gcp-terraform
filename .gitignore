@@ -1,0 +1,6 @@
+gcp_service_account_key.json
+.terraform/
+*.hcl
+*.info
+*.tfstate
+*.backup
